@@ -8,7 +8,7 @@ Inspired by the legendary foresight of **Baba Wanga**, this repo combines data-d
 
 ## 🧩 Experiments
 
-### 🔹 `exp_01_price_direction_classification.py`
+### 🔹 `exp_01_price_direction_classification`
 
 This first experiment demonstrates how to gather cryptocurrency data, perform exploratory data analysis (EDA), engineer features, and build models that classify whether a crypto’s price will **go up** or **not**.
 

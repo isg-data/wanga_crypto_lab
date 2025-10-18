@@ -6,12 +6,13 @@ Inspired by the legendary foresight of **Baba Wanga**, this repo combines data-d
 
 ---
 
-## 🧩 Current Experiment: Crypto Price Direction Classification
+## 🧩 Experiments
 
-This script demonstrates how to gather cryptocurrency data, perform exploratory analysis, engineer features, and build models that classify whether a crypto’s price will **go up** or **not**.
+### 🔹 `exp_01_price_direction_classification.py`
 
-### What’s Inside
+This first experiment demonstrates how to gather cryptocurrency data, perform exploratory data analysis (EDA), engineer features, and build models that classify whether a crypto’s price will **go up** or **not**.
 
+**What’s Inside**
 - **Data fetching** for crypto prices  
 - **Exploratory Data Analysis (EDA)**  
 - **Feature Engineering** for model-ready inputs  
@@ -24,5 +25,4 @@ This script demonstrates how to gather cryptocurrency data, perform exploratory 
 
 ---
 
-## 🧪 Project Structure
 
